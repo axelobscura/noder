@@ -1,12 +1,1 @@
-[
-  {
-    "id": 1,
-    "name": "Learning",
-    "complete": "false"
-  },
-  {
-    "id": 2,
-    "name": "Javascript",
-    "complete": "false"
-  }
-]
+[{"id":1,"name":"Learning","complete":true},{"id":2,"name":"Javascript","complete":false}]
